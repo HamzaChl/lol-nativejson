@@ -6,9 +6,27 @@
     "newsDate": "December 10, 2024"
   },
   {
-    "newsImg": "https://example.com/news-image2.jpg",
-    "newsTitle": "New Champion Revealed",
-    "newsSubTitle": "The new champion has arrived with exciting new abilities and features to change the game!",
+    "newsImg": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/17073231646b993fe3669494328c13ffa2ab9d92-8345x4131.jpg?auto=format&fit=fill&q=80&w=2368",
+    "newsTitle": "Patch 14.24 Notes",
+    "newsSubTitle": "We’re taking a trip into the Arcane, welcome to 14.24!    ",
     "newsDate": "December 9, 2024"
+  },
+  {
+    "newsImg": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/c623e907c1763af04bfac1e60ff3a289919d8587-1920x1080.jpg?auto=format&fit=fill&q=80&w=901",
+    "newsTitle": "Arcane Reunion Holiday Sweater",
+    "newsSubTitle": "Relive the best ending of Arcane in the warmth of the Arcane Family Reunion Holiday Sweater. ",
+    "newsDate": "December 8, 2024"
+  },
+  {
+    "newsImg": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/44157e1f9ca1c9f20f677ca1638c73e69d006d0e-1920x1080.png?auto=format&fit=fill&q=80&w=901",
+    "newsTitle": "Nendoroid Jinx from Arcane",
+    "newsSubTitle": "Let’s watch it all burn! Arcane Jinx is here to ignite pure chaos in Nendoroid form! Pre-order now!   ",
+    "newsDate": "December 6, 2024"
+  },
+  {
+    "newsImg": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/a01f0c001ce800823f009cdb9362b66597115042-1920x1080.jpg?auto=format&fit=fill&q=80&w=901",
+    "newsTitle": "tokidoki Arcane Viktor",
+    "newsSubTitle": "Experience the magic of Unicorno and Arcane's Hextech with the tokidoki x Arcane Unicorno Viktor! ",
+    "newsDate": "December 4, 2024"
   }
 ]
