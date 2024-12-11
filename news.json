@@ -1,0 +1,14 @@
+[
+  {
+    "newsImg": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/10ac4c9451e57e863f87fa39fb22aaf9885e6825-1280x720.jpg?auto=format&fit=fill&q=80&w=1280",
+    "newsTitle": "Teamfight Tactics patch 14.24 notes",
+    "newsSubTitle": "Into the Arcane is evolving with patch 14.24, which introduces new Anomalies, new Opening Encounters, new Augments, and three ultra-powerful 6-costs.",
+    "newsDate": "December 10, 2024"
+  },
+  {
+    "newsImg": "https://example.com/news-image2.jpg",
+    "newsTitle": "New Champion Revealed",
+    "newsSubTitle": "The new champion has arrived with exciting new abilities and features to change the game!",
+    "newsDate": "December 9, 2024"
+  }
+]
